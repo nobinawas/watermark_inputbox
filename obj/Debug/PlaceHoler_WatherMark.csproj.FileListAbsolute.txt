@@ -1,0 +1,10 @@
+E:\Software Development (ASP Net)\Front End Development\PlaceHoler_WatherMark\bin\Debug\PlaceHoler_WatherMark.exe.config
+E:\Software Development (ASP Net)\Front End Development\PlaceHoler_WatherMark\bin\Debug\PlaceHoler_WatherMark.exe
+E:\Software Development (ASP Net)\Front End Development\PlaceHoler_WatherMark\bin\Debug\PlaceHoler_WatherMark.pdb
+E:\Software Development (ASP Net)\Front End Development\PlaceHoler_WatherMark\obj\Debug\PlaceHoler_WatherMark.csproj.AssemblyReference.cache
+E:\Software Development (ASP Net)\Front End Development\PlaceHoler_WatherMark\obj\Debug\PlaceHoler_WatherMark.Form1.resources
+E:\Software Development (ASP Net)\Front End Development\PlaceHoler_WatherMark\obj\Debug\PlaceHoler_WatherMark.Properties.Resources.resources
+E:\Software Development (ASP Net)\Front End Development\PlaceHoler_WatherMark\obj\Debug\PlaceHoler_WatherMark.csproj.GenerateResource.cache
+E:\Software Development (ASP Net)\Front End Development\PlaceHoler_WatherMark\obj\Debug\PlaceHoler_WatherMark.csproj.CoreCompileInputs.cache
+E:\Software Development (ASP Net)\Front End Development\PlaceHoler_WatherMark\obj\Debug\PlaceHoler_WatherMark.exe
+E:\Software Development (ASP Net)\Front End Development\PlaceHoler_WatherMark\obj\Debug\PlaceHoler_WatherMark.pdb

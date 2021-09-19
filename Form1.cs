@@ -16,5 +16,25 @@ namespace PlaceHoler_WatherMark
         {
             InitializeComponent();
         }
+
+        private void NameTextBox_Enter(object sender, EventArgs e)
+        {
+            if (NameTextBox.Text == "Input User Name")
+            {
+                NameTextBox.Text = "";
+                NameTextBox.ForeColor = Color.Black;
+
+            }
+        }
+
+        private void NameTextBox_Leave(object sender, EventArgs e)
+        {
+            if (NameTextBox.Text=="")
+            {
+                NameTextBox.Text = "User Name";
+                NameTextBox.ForeColor = Color.Black;
+
+            }
+        }
     }
 }
