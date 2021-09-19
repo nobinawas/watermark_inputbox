@@ -57,17 +57,21 @@ namespace PlaceHoler_WatherMark
             // 
             // NameTextBox
             // 
-            this.NameTextBox.Location = new System.Drawing.Point(163, 61);
+            this.NameTextBox.Font = new System.Drawing.Font("Modern No. 20", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.NameTextBox.Location = new System.Drawing.Point(163, 57);
             this.NameTextBox.Name = "NameTextBox";
-            this.NameTextBox.Size = new System.Drawing.Size(185, 20);
+            this.NameTextBox.Size = new System.Drawing.Size(185, 25);
             this.NameTextBox.TabIndex = 2;
+            this.NameTextBox.Text = "User Name ";
             // 
             // EmailTextBox
             // 
-            this.EmailTextBox.Location = new System.Drawing.Point(163, 114);
+            this.EmailTextBox.Font = new System.Drawing.Font("Modern No. 20", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.EmailTextBox.Location = new System.Drawing.Point(163, 113);
             this.EmailTextBox.Name = "EmailTextBox";
-            this.EmailTextBox.Size = new System.Drawing.Size(185, 20);
+            this.EmailTextBox.Size = new System.Drawing.Size(185, 25);
             this.EmailTextBox.TabIndex = 3;
+            this.EmailTextBox.Text = "User Email";
             // 
             // Form1
             // 
