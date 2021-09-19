@@ -72,7 +72,8 @@ namespace PlaceHoler_WatherMark
             this.EmailTextBox.Name = "EmailTextBox";
             this.EmailTextBox.Size = new System.Drawing.Size(185, 25);
             this.EmailTextBox.TabIndex = 3;
-            this.EmailTextBox.Text = "User Email";
+            this.EmailTextBox.Enter += new System.EventHandler(this.EmailTextBox_Enter);
+            this.EmailTextBox.Leave += new System.EventHandler(this.EmailTextBox_Leave);
             // 
             // Form1
             // 

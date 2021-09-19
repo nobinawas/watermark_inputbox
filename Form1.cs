@@ -19,7 +19,7 @@ namespace PlaceHoler_WatherMark
 
         private void NameTextBox_Enter(object sender, EventArgs e)
         {
-            if (NameTextBox.Text == "Input User Name")
+            if (NameTextBox.Text == "Enter Your Name")
             {
                 NameTextBox.Text = "";
                 NameTextBox.ForeColor = Color.Black;
@@ -34,6 +34,26 @@ namespace PlaceHoler_WatherMark
                 NameTextBox.Text = "User Name";
                 NameTextBox.ForeColor = Color.Black;
 
+            }
+        }
+
+        private void EmailTextBox_Enter(object sender, EventArgs e)
+        {
+            if (EmailTextBox.Text=="Enter Your Email")
+            {
+                EmailTextBox.Text = " ";
+                EmailTextBox.ForeColor = Color.Black;
+
+            }
+        }
+
+        private void EmailTextBox_Leave(object sender, EventArgs e)
+        {
+            if (EmailTextBox.Text=="")
+            {
+                EmailTextBox.Text = "email@example.com";
+                EmailTextBox.ForeColor = Color.Black;
+                    
             }
         }
     }
